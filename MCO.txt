@@ -1,0 +1,36 @@
+Good day. 
+This is in connection to your major course output. You need to have the following menu for your portfolio; Home, About, Education, Skills, Hobbies, Photo, Contact.
+
+Your personal portfolio website is a reflection of who you are as a professional in the future and as an individual. Here's a breakdown of the information you should include in each section:
+Home:
+•	A brief introduction to yourself and the purpose of the website.
+•	Maybe a welcome message or tagline that encapsulates your personal brand or professional focus.
+•	Navigation links to other sections of your website.
+About:
+•	A more detailed bio about yourself, including your background, experience, and accomplishments.
+•	Your career objectives or mission statement.
+•	Any relevant personal anecdotes or passions that contribute to your professional identity.
+•	Include here a short video introducing yourself and professional photo of yourself here as well.
+Education:
+•	List your educational background, including degrees, diplomas, and certifications.
+•	Mention any academic achievements, honors, or awards.
+•	You might also briefly discuss your educational journey and how it has shaped your career path.
+Skills:
+•	Highlight your key skills and competencies relevant to your profession or industry.
+•	Use bullet points or a visual representation (like a bar graph) to showcase your proficiency levels in different skills.
+•	Include both technical skills and soft skills.
+Hobbies:
+•	Share some of your interests and hobbies outside of work.
+•	This section adds a personal touch and helps visitors to connect with you on a more human level.
+•	You might include hobbies that demonstrate skills or traits relevant to your profession, or simply those that you're passionate about.
+Photo:
+•	A professional headshots or portraits of yourself.
+•	Ensure the photo reflects the image you want to convey to potential employers or clients.
+•	Consider the lighting, background, and your attire in the photo.
+Contact:
+•	Provide various ways for visitors to get in touch with you, such as email, phone number, or a contact form.
+•	You may also include links to your social media profiles or professional networking sites like LinkedIn.
+•	Consider adding a call-to-action prompting visitors to reach out for collaborations, job opportunities, or inquiries.
+
+Remember to keep the content concise, relevant, and engaging. Your personal portfolio website should showcase your strengths, personality, and unique value proposition effectively. 
+Lastly, make sure it will be accessible online.
